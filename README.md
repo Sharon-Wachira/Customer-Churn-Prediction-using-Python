@@ -24,6 +24,7 @@ The entire process is documented step-by-step within the FINAL CUSTOMER CHURN ip
 Initial Audit: Assessed dataset size, missing values, and data types.
 
 Visual Analysis: Used distribution plots and correlation matrices to understand the relationship between various features (e.g., Monthly_Spend, Support_Calls) and the target variable (Churn).
+<img width="1140" height="753" alt="image" src="https://github.com/user-attachments/assets/cea536c2-0dd5-47c6-9b91-7f9385546c9d" />
 
 Outlier Treatment: Handled extreme values (e.g., using capping or transformation) to ensure model stability.
 
@@ -54,6 +55,7 @@ Used GridSearchCV, RandomizedSearchCV, or manual tuning to optimize the final ch
 ###### Model Performance Summary
 
 Gradient Boosting  - F1 SCORE = 0.9412
+<img width="736" height="458" alt="image" src="https://github.com/user-attachments/assets/96872617-5784-4dfb-9e0a-987b5db9471e" />
 
 Random Forest - F1-Score] = 0.9379
 
