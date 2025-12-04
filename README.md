@@ -53,26 +53,25 @@ Used GridSearchCV, RandomizedSearchCV, or manual tuning to optimize the final ch
 
 ###### Model Performance Summary
 
-Gradient Boosting  - [F1 SCORE] = [0.9412]
+Gradient Boosting  - F1 SCORE = 0.9412
 
-Random Forest - [F1-Score] = [0.9379]
+Random Forest - F1-Score] = 0.9379
 
-Logistic Regression - [F1-Score] = [0.8702]
+Logistic Regression - F1-Score = 0.8702
 
 ###### Top 3 Churn Drivers 
 
 Model interpretation confirmed that churn is driven by a combination of cost, usage, and service quality factors.
 
-.[Support Calls]:Repeated negative interactions signal service dissatisfaction
+Support Calls:Repeated negative interactions signaled poor customer service. 
 
-[Total Spend]: 
+Total Spend: 
 
-[Contract Length- Monthly ]: .
+Contract Length SPECIFICALLY Monthly
 
 #### Business Recommendations
 
-**Based on the model's insights, the following strategic actions are recommended to maximize customer retention
-**
+###### Based on the model's insights, the following strategic actions are recommended to maximize customer retention
 
 Proactive Intervention for High-Value, High-Risk Customers: Identify the top 5% of customers predicted to churn and immediately enroll them in a dedicated retention campaign 
 
