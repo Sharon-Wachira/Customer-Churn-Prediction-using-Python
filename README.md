@@ -51,33 +51,15 @@ Used GridSearchCV, RandomizedSearchCV, or manual tuning to optimize the final ch
 
 📈 Key Results and Insights
 
-Model Performance Summary
+###### Model Performance Summary
 
-Model
+Gradient Boosting  - [F1 SCORE] = [0.9412]
 
-Metric
+Random Forest - [F1-Score] = [0.9379]
 
-Score
+Logistic Regression - [F1-Score] = [0.8702]
 
-Gradient Boosting 
-
-[F1 SCORE]
-
-[0.9412]
-
-Random Forest
-
-[F1-Score]
-
-[0.9379]
-
-Logistic Regression
-
-[F1-Score]
-
-[0.8702]
-
-Top 3 Churn Drivers 
+###### Top 3 Churn Drivers 
 
 Model interpretation confirmed that churn is driven by a combination of cost, usage, and service quality factors.
 
